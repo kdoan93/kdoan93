@@ -5,7 +5,7 @@ I'm a car enthusiast who has worked in the automotive industry for the past 10 y
 
 ### Here's a link to my [Portfolio](https://kdoan93.github.io/)!
 
-## Tech stack I've learned at App Academy:
+## Tech stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
